@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Web Development**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2155131/screenshots/6232420/girl_4x.jpg?compress=1&resize=1000x750">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juhi-sharma-0b172b178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juhi-sharma-0b172b178" height="30" width="40" /></a>
