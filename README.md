@@ -9,8 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/juhi-sharma-0b172b178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juhi-sharma-0b172b178" height="30" width="40" /></a>
 <a href="https://instagram.com/juhisharma_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juhisharma_24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/juhi_btech_cs19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="juhi_btech_cs19" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/juhisharma1243" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="juhisharma1243" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
