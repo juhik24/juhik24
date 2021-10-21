@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juhi</h1>
-<h3 align="center">CSE Prefinal Year student at IIIT Ranchi</h3>
+<h3 align="center">CSE Pre-final Year student at IIIT Ranchi</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
