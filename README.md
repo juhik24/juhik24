@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juhi</h1>
 <h3 align="center">CSE Pre-final Year student at IIIT Ranchi</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhik24&label=Profile%20views&color=0e75b6&style=flat" alt="juhik24" /> </p>
+
+
 - 🌱 I’m currently learning **Web Development**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2155131/screenshots/6232420/girl_4x.jpg?compress=1&resize=1000x750">
