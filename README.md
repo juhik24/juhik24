@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juhi</h1>
-<h3 align="center">CSE Pre-final Year student at IIIT Ranchi</h3>
+<h3 align="center">CSE Final Year student at IIIT Ranchi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhik24&label=Profile%20views&color=0e75b6&style=flat" alt="juhik24" /> </p>
 
