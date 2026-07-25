@@ -1,25 +1,111 @@
 <h1 align="center">Hi 👋, I'm Juhi</h1>
-<h3 align="center">CSE Final Year student at IIIT Ranchi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhik24&label=Profile%20views&color=0e75b6&style=flat" alt="juhik24" /> </p>
+<h3 align="center">
+Software Engineer | Backend & Full-Stack Developer | Building Scalable Systems & AI Applications
+</h3>
 
-
-- 🌱 I’m currently learning **Web Development**
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2155131/screenshots/6232420/girl_4x.jpg?compress=1&resize=1000x750">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juhi-sharma-0b172b178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juhi-sharma-0b172b178" height="30" width="40" /></a>
-<a href="https://instagram.com/juhisharma_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juhisharma_24" height="30" width="40" /></a>
-<a href="https://twitter.com/JuhiSharma_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juhisharma_24" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/juhik24">
+    <img src="https://komarev.com/ghpvc/?username=juhik24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2155131/screenshots/6232420/girl_4x.jpg?compress=1&resize=1000x750"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhik24&show_icons=true&locale=en&layout=compact" alt="juhik24" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhik24&show_icons=true&locale=en" alt="juhik24" /></p>
+- 💼 Software Engineer at **Centre for Development of Telematics (C-DOT)**
+- 🚀 Building scalable backend systems, automation platforms, and AI-powered applications
+- 🌱 Currently exploring **Generative AI, RAG, FastAPI, and Distributed Systems**
+- 💬 Ask me about **Node.js, React, FastAPI, MongoDB, Python, Backend Development**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhik24&" alt="juhik24" /></p>
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 AI Code Assistant
+
+AI-powered code assistant that allows developers to upload ZIP files or import GitHub repositories and ask natural language questions using Retrieval-Augmented Generation (RAG).
+
+**Tech Stack**
+
+- React
+- FastAPI
+- Google Gemini
+- ChromaDB
+- MongoDB
+- Python
+
+🔗 **Repository:**  
+https://github.com/juhik24/AI-Code-Assistant
+
+---
+
+### 💬 Multi-User Discussion Platform
+
+A full-stack discussion platform with JWT authentication, role-based authorization, posts, comments, voting, and search.
+
+🔗 **Repository:**  
+https://github.com/juhik24/multi-user-discussion-platform
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/juhi-sharma-0b172b178">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=juhik24&show_icons=true&theme=github_dark"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhik24&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=juhik24&theme=github-dark-blue"/>
+
+</p>
