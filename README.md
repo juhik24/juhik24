@@ -55,35 +55,6 @@ Software Engineer | Backend & Full-Stack Developer | Building Scalable Systems &
 
 ---
 
-## ⭐ Featured Projects
-
-### 🤖 AI Code Assistant
-
-AI-powered code assistant that allows developers to upload ZIP files or import GitHub repositories and ask natural language questions using Retrieval-Augmented Generation (RAG).
-
-**Tech Stack**
-
-- React
-- FastAPI
-- Google Gemini
-- ChromaDB
-- MongoDB
-- Python
-
-🔗 **Repository:**  
-https://github.com/juhik24/AI-Code-Assistant
-
----
-
-### 💬 Multi-User Discussion Platform
-
-A full-stack discussion platform with JWT authentication, role-based authorization, posts, comments, voting, and search.
-
-🔗 **Repository:**  
-https://github.com/juhik24/multi-user-discussion-platform
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -97,15 +68,11 @@ https://github.com/juhik24/multi-user-discussion-platform
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juhik24&show_icons=true&theme=github_dark&cache_seconds=1800" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=juhik24&show_icons=true&theme=github_dark"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhik24&layout=compact&theme=github_dark"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhik24&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=juhik24&theme=github-dark-blue"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=juhik24&theme=github-dark-blue" />
 </p>
